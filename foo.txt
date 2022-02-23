@@ -1,1 +1,2 @@
 this is foo.txt
+foo file update from develop branch
